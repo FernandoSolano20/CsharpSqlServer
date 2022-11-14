@@ -1,0 +1,6 @@
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\bin\Debug\CsharpSqlServer.exe.config
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\bin\Debug\CsharpSqlServer.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\bin\Debug\CsharpSqlServer.pdb
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\obj\Debug\CsharpSqlServer.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\obj\Debug\CsharpSqlServer.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\Connect Sql Server Using C#\Project\CsharpSqlServer\CsharpSqlServer\obj\Debug\CsharpSqlServer.pdb
